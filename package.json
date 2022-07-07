@@ -1,0 +1,8 @@
+{
+  "name": "@techswap/token-list",
+  "version": "1.0.0",
+  "description": "Techswap Token List",
+  "main": "index.js",
+  "author": "Jonathan Caster",
+  "license": "MIT"
+}
